@@ -90,6 +90,7 @@ fun ChatScreen(
                     if (message != null) {
                         tempMap.add(message)
                     }
+
                 }
                 messagesList.clear()
                 // Ordenamos por timestamp para asegurar la cronología
